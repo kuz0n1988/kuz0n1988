@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kuz0n1988
 - 👀 I’m interested in Qt
-- 🌱 I’m currently learning C++ + Qt
+- 🌱 I’m currently learning C++ + Qt 5.15
 - 💞️ I’m looking to collaborate on growing my skills
 - 📫 How to reach me ... kuz0n@yandex.ru
 
